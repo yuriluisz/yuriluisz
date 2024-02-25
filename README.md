@@ -8,11 +8,11 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yuriluisz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Yuri Luis github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriluisz&langs_count=12&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   <img  src="https://github-readme-stats.vercel.app/api/wakatime/?username=yuriluisz&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=12&bg_color=0d1117"/><br/>
-  <a href="https://wakatime.com/@23c55239-999c-4c5b-b110-f53b26806031"><img src="https://wakatime.com/badge/user/23c55239-999c-4c5b-b110-f53b26806031.svg" alt="Total time coded since Jun 20 2023" /></a>
+  <a href="https://wakatime.com/@018d3e42-35de-4b9d-8e6d-eabeb29216d2"><img src="https://wakatime.com/badge/user/018d3e42-35de-4b9d-8e6d-eabeb29216d2.svg" alt="Total time coded since Jan 24 2024" /></a>
 </div>
 
 ### Main skills:
-![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![PYTHON](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-0D1117?style=for-the-badge&logo=JAVASCRIPT&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
@@ -28,7 +28,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
