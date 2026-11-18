@@ -6,4 +6,4 @@ Building scalable solutions: from a complete Multi-Tenant CRM powered by Convers
 
 📫 **Reach me:** yulusica@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,golang,nodejs,python,postgres,supabase,docker,linux,cloudflare,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,golang,nodejs,python,postgres,supabase,docker,linux,cloudflare,github,figma,redis)](https://skillicons.dev)
